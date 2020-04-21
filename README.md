@@ -29,6 +29,7 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 
 ## Weekly Plans
 - 🚀 [Week 01: **JS Review**](#week01)
+- 🚀 [Week 02: **PostgreSQL**](#week02)
 
 
 ***
