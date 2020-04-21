@@ -89,18 +89,17 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 | Day 02    | Material     | Why   |
 | ---------|:-------------:| :-----:|
 | Read     | The Imposters Handbook - Big O Chapter | Deeper Dive into Big O |
-| Watch    | [MongoDB vs. PostgreSQL](https://youtu.be/eM7hzKwvTq8)      | Video breaks down the differences 🚨 **WATCH BEFORE CLASS**  |
-| Do       | Go to class      | Leon just wants to spend time with you - Also, covering complexity, MongoDB vs. PostgreSQL, and basics of PostgreSQL |
+| Watch    | [MongoDB vs. PostgreSQL](https://youtu.be/eM7hzKwvTq8)      | Video breaks down the differences   |
 
 | Day 03    | Material     | Why   |
 | ---------|:-------------:| :-----:|
 | Read     | [PostgreSQL / MySQL comparison](https://blog.panoply.io/postgresql-vs.-mysqld) | Learn all about the difference btw PostgreSQL and MySQL |
-| Watch    | [Great Simple Intro. to PostgreSQL](https://youtu.be/xaWlS9HtWYw)      | Simple intro to PostgreSQL the covers everything we did in class 🚨 **WATCH ALL 4 Videos** |
+| Watch    | [Great Simple Intro. to PostgreSQL](https://youtu.be/xaWlS9HtWYw)      | Simple intro to PostgreSQL 🚨 **WATCH ALL 4 Videos** |
 | Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
 
 | Day 04    | Material     | Why   |
 | ---------|:-------------:| :-----:|
-| Do   | If you haven't  yet INSTALL PostgreSQL | Redo the queries from yesterdays video without looking at the answers. Ask for help in #alumni-course  |
+| Do   | If you haven't  yet INSTALL PostgreSQL | Redo the queries from yesterdays video without looking at the answers. Ask for help in #_help  |
 | Do       | [JS30 #06](https://javascript30.com/)      | Learn JS Fundamentals && Yes, we are skipping - doing just the 🤑 money projects 🤑 |
 | Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
 
